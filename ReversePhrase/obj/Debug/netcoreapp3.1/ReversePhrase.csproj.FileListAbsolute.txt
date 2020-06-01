@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\bin\Debug\netcoreapp3.1\ReversePhrase.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\bin\Debug\netcoreapp3.1\ReversePhrase.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\bin\Debug\netcoreapp3.1\ReversePhrase.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\bin\Debug\netcoreapp3.1\ReversePhrase.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\bin\Debug\netcoreapp3.1\ReversePhrase.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\bin\Debug\netcoreapp3.1\ReversePhrase.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\ReversePhrase\obj\Debug\netcoreapp3.1\ReversePhrase.genruntimeconfig.cache

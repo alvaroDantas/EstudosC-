@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.genruntimeconfig.cache

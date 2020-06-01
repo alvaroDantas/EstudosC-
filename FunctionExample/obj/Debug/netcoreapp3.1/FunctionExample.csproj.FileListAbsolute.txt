@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.genruntimeconfig.cache

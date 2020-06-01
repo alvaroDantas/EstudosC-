@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\bin\Debug\netcoreapp3.1\FindSubstrings.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\bin\Debug\netcoreapp3.1\FindSubstrings.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\bin\Debug\netcoreapp3.1\FindSubstrings.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\bin\Debug\netcoreapp3.1\FindSubstrings.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\bin\Debug\netcoreapp3.1\FindSubstrings.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\bin\Debug\netcoreapp3.1\FindSubstrings.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\FindSubstrings\obj\Debug\netcoreapp3.1\FindSubstrings.genruntimeconfig.cache
