@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Desktop\\Estudos C#\\Programs\\CheckPalindrome\\CheckPalindrome.csproj",
+      "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Desktop\\Estudos C#\\Programs\\repository\\EstudosC-\\CheckPalindrome\\CheckPalindrome.csproj",
       "projectName": "CheckPalindrome",
-      "projectPath": "C:\\Users\\alvar\\OneDrive\\Desktop\\Estudos C#\\Programs\\CheckPalindrome\\CheckPalindrome.csproj",
+      "projectPath": "C:\\Users\\alvar\\OneDrive\\Desktop\\Estudos C#\\Programs\\repository\\EstudosC-\\CheckPalindrome\\CheckPalindrome.csproj",
       "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvar\\OneDrive\\Desktop\\Estudos C#\\Programs\\CheckPalindrome\\obj\\",
+      "outputPath": "C:\\Users\\alvar\\OneDrive\\Desktop\\Estudos C#\\Programs\\repository\\EstudosC-\\CheckPalindrome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\CheckPalindrome\obj\Debug\ne
 C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.dll
 C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.pdb
 C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\bin\Debug\netcoreapp3.1\CheckPalindrome.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\bin\Debug\netcoreapp3.1\CheckPalindrome.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\bin\Debug\netcoreapp3.1\CheckPalindrome.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\bin\Debug\netcoreapp3.1\CheckPalindrome.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\bin\Debug\netcoreapp3.1\CheckPalindrome.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\bin\Debug\netcoreapp3.1\CheckPalindrome.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CheckPalindrome\obj\Debug\netcoreapp3.1\CheckPalindrome.genruntimeconfig.cache

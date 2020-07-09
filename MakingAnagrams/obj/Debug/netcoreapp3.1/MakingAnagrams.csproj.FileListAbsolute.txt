@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\bin\Debug\netcoreapp3.1\MakingAnagrams.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\bin\Debug\netcoreapp3.1\MakingAnagrams.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\bin\Debug\netcoreapp3.1\MakingAnagrams.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\bin\Debug\netcoreapp3.1\MakingAnagrams.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\bin\Debug\netcoreapp3.1\MakingAnagrams.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\bin\Debug\netcoreapp3.1\MakingAnagrams.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\MakingAnagrams\obj\Debug\netcoreapp3.1\MakingAnagrams.genruntimeconfig.cache

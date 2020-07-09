@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\bin\Debug\netcoreapp3.1\CountingValleys.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\CountingValleys\obj\Debug\netcoreapp3.1\CountingValleys.genruntimeconfig.cache

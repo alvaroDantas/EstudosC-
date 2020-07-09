@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\bin\Debug\netcoreapp3.1\FreelancigPlatform.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\bin\Debug\netcoreapp3.1\FreelancigPlatform.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\bin\Debug\netcoreapp3.1\FreelancigPlatform.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\bin\Debug\netcoreapp3.1\FreelancigPlatform.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\bin\Debug\netcoreapp3.1\FreelancigPlatform.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\bin\Debug\netcoreapp3.1\FreelancigPlatform.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\FreelancigPlatform\obj\Debug\netcoreapp3.1\FreelancigPlatform.genruntimeconfig.cache

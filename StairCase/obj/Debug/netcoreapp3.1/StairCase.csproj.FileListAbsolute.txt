@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\bin\Debug\netcoreapp3.1\StairCase.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\bin\Debug\netcoreapp3.1\StairCase.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\bin\Debug\netcoreapp3.1\StairCase.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\bin\Debug\netcoreapp3.1\StairCase.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\bin\Debug\netcoreapp3.1\StairCase.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\bin\Debug\netcoreapp3.1\StairCase.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\StairCase\obj\Debug\netcoreapp3.1\StairCase.genruntimeconfig.cache

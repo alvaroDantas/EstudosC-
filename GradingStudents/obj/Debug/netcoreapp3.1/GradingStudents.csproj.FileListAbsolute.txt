@@ -1,0 +1,13 @@
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.csprojAssemblyReference.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.exe
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.deps.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.runtimeconfig.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.dll
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.pdb
+C:\Users\alvar\OneDrive\Desktop\Estudos C#\Programs\repository\EstudosC-\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.genruntimeconfig.cache
